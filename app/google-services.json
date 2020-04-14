@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974733687891",
+    "firebase_url": "https://waste-management-ebac6.firebaseio.com",
+    "project_id": "waste-management-ebac6",
+    "storage_bucket": "waste-management-ebac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974733687891:android:c9b119c63f08c636825aa6",
+        "android_client_info": {
+          "package_name": "application.example.wastemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974733687891-jtdo081ec7bta1la6b37dgoid5oqggku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "application.example.wastemanagement",
+            "certificate_hash": "76ebc0d303d380a1dc175440d3d0069a5bb65fd1"
+          }
+        },
+        {
+          "client_id": "974733687891-1n9ek5ndkiosu9384la5tu8mid9869ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5u7Be3y-r-DKxS12UU9-VZcFN3pIn4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974733687891-1n9ek5ndkiosu9384la5tu8mid9869ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
